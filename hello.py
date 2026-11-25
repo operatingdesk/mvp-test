@@ -4,3 +4,7 @@ def greet():
 
 def farewell():
     return "goodbye"
+
+
+def welcome(name):
+    return "hello, " + name
